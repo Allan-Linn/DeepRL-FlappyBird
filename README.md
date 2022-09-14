@@ -3,6 +3,9 @@
 Pytorch implementation of Deep Q-Networks (with different operators) for Flappy Bird environment. Deep Q-Learning has been shown to suffer from an overestimation problem due to the use of the max operator (due to Jensen's inequality and convexity of the max). Multiple replacements for the max operator are tested in the Flappy Bird environment. 
 
 
+Links to the original papers are embedded below:
+
+Asadi, K., &amp; Littman, M. L. (2017, June 14). An alternative softmax operator for reinforcement learning. arXiv.org. Retrieved September 13, 2022, from https://arxiv.org/abs/1612.05628 
 [Mellowmax](https://arxiv.org/pdf/1612.05628.pdf)
 
 [Adaptive Mellowmax](https://cs.brown.edu/people/gdk/pubs/tuning_mellowmax_drlw.pdf)
