@@ -16,14 +16,25 @@ Y. Gan, Z. Zhang, and X. Tan, “Stabilizing Q learning via soft Mellowmax opera
 
 <hr style="border:2px solid gray">
 
-#Dependencies
+# Dependencies
 
 Install requirements:
 
 `pip install -r requirements.txt`
 
-#Running the Code
+# Running the Code
 
+First, determine the algorithm you want to run. You can modify the hyperparameters of the code in the corresponding config file in the configs folder. To help you better understand the input parameters, we list them below:
+
+`
+model_save_path #folder to save policy model
+load_path #load a model's weight from this path
+results_save_path #folder to save the quantitative data that is recorded every iteration
+game_run_path #folder to save quantitative data saved during an episode
+mode #train or test model
+save_every #save model, data every X iteration
+temperature #temperature of an operator
+`
 
 
 
