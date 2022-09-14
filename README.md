@@ -24,7 +24,7 @@ Install requirements:
 
 # Running the Code
 
-First, determine the algorithm you want to run. You can modify the hyperparameters of the code in the corresponding config file in the configs folder. To help you better understand the input parameters, we list them below:
+First, determine the algorithm you want to run. You can modify the parameters of the code in the corresponding config file in the configs folder. To help you better understand the input parameters, we list them below:
 
 **model_save_path**: folder to save policy model <br />
 **load_path**: load a model's weight from this path <br />
@@ -34,7 +34,11 @@ First, determine the algorithm you want to run. You can modify the hyperparamete
 **save_every**: save model, data every X iteration <br />
 **temperature**: temperature of an operator <br />
 
+After setting the parameters to your preference, run
 
+`python deepmellow_dqn.py --config configs/dm_param.txt`
+
+for the deepmellow operator. Change the .py and .txt files accordingly if you want to use another operator. 
 
 
 
