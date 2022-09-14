@@ -4,12 +4,15 @@ Pytorch implementation of Deep Q-Networks (with different operators) for Flappy 
 
 
 Mellowmax:
+
 [1]: https://arxiv.org/pdf/1612.05628.pdf
 
 Adaptive Mellowmax:
+
 [2]: https://cs.brown.edu/people/gdk/pubs/tuning_mellowmax_drlw.pdf
 
 Soft Mellowmax:
+
 [3]: https://arxiv.org/pdf/2012.09456.pdf
 
 
