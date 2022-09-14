@@ -1,0 +1,11 @@
+model_save_path = ./weights
+load_path = ./weights/INIT_MODEL.pth
+results_save_path = ./results
+game_run_path = ./episode_data
+mode = train
+save_every = 50000
+temperature = 1000
+beginning_episode = 0
+beginning_iteration = 0
+
+
