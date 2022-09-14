@@ -40,6 +40,13 @@ After setting the parameters to your preference, run
 
 for the deepmellow operator. Change the .py and .txt files accordingly if you want to use another operator. 
 
+<hr style="border:2px solid gray">
 
+#Acknowledgement:
+
+This code borrows the Flappy Bird interface from: <br />
+https://github.com/nevenp/dqn_flappy_bird 
+
+We thank the author for the contribution to this project. 
 
 
