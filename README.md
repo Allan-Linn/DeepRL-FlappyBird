@@ -14,5 +14,17 @@ Asadi, K., &amp; Littman, M. L. (2017, June 14). An alternative softmax operator
 [Soft Mellowmax](https://arxiv.org/pdf/2012.09456.pdf): <br />
 Y. Gan, Z. Zhang, and X. Tan, “Stabilizing Q learning via soft Mellowmax operator,” arXiv.org, 18-Dec-2020. [Online]. Available: https://arxiv.org/abs/2012.09456. [Accessed: 13-Sep-2022]. 
 
+<hr style="border:2px solid gray">
+
+#Dependencies
+
+Install requirements:
+
+`pip install -r requirements.txt`
+
+#Running the Code
+
+
+
 
 
