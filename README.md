@@ -42,7 +42,7 @@ for the deepmellow operator. Change the .py and .txt files accordingly if you wa
 
 <hr style="border:2px solid gray">
 
-#Acknowledgement:
+# Acknowledgement:
 
 This code borrows the Flappy Bird interface from: <br />
 https://github.com/nevenp/dqn_flappy_bird 
