@@ -26,13 +26,15 @@ Install requirements:
 
 First, determine the algorithm you want to run. You can modify the hyperparameters of the code in the corresponding config file in the configs folder. To help you better understand the input parameters, we list them below:
 
-model_save_path #folder to save policy model <br />
-load_path #load a model's weight from this path <br />
-results_save_path #folder to save the quantitative data that is recorded every iteration <br />
-game_run_path #folder to save quantitative data saved during an episode <br />
-mode #train or test model <br />
-save_every #save model, data every X iteration <br />
-temperature #temperature of an operator <br />
+**model_save_path**: folder to save policy model <br />
+**load_path**: load a model's weight from this path <br />
+**results_save_path**: folder to save the quantitative data that is recorded every iteration <br />
+**game_run_path**: folder to save quantitative data saved during an episode <br />
+**mode**: train or test model <br />
+**save_every**: save model, data every X iteration <br />
+**temperature**: temperature of an operator <br />
+
+
 
 
 
